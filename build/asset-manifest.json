@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b5b87ab.css",
+    "main.js": "/static/js/main.192f5497.js",
+    "static/js/592.754a48a8.chunk.js": "/static/js/592.754a48a8.chunk.js",
+    "static/media/loginsignup.jpg": "/static/media/loginsignup.9982c87d4941e3970062.jpg",
+    "static/media/second-theme.png": "/static/media/second-theme.3ac5d4fd75130555def0.png",
+    "static/media/first-theme.png": "/static/media/first-theme.82d88248f95433e559a0.png",
+    "static/media/Mulish-Black.ttf": "/static/media/Mulish-Black.1c7e28eec1581d8fbe41.ttf",
+    "static/media/Mulish-Bold.ttf": "/static/media/Mulish-Bold.6cb68186a91bb3fcb0b7.ttf",
+    "static/media/Mulish-Light.ttf": "/static/media/Mulish-Light.2b8fbb0e33f960080fd2.ttf",
+    "static/media/Mulish-Medium.ttf": "/static/media/Mulish-Medium.8bdb52a1df8fba9da3ef.ttf",
+    "static/media/Mulish-ExtraBold.ttf": "/static/media/Mulish-ExtraBold.06b5157c67b69344b4be.ttf",
+    "static/media/Mulish-Regular.ttf": "/static/media/Mulish-Regular.d3d302e1573fb1c8db5b.ttf",
+    "static/media/Mulish-SemiBold.ttf": "/static/media/Mulish-SemiBold.6bf3074a2efb3178fd2b.ttf",
+    "static/media/Mulish-ExtraLight.ttf": "/static/media/Mulish-ExtraLight.588a2961a8a2682d569b.ttf",
+    "static/media/logoVertical.jpg": "/static/media/logoVertical.c508826ddfe447ce6ac5.jpg",
+    "static/media/CardiflyLogo.png": "/static/media/CardiflyLogo.15b64a3da4bb50264daf.png",
+    "index.html": "/index.html",
+    "main.4b5b87ab.css.map": "/static/css/main.4b5b87ab.css.map",
+    "main.192f5497.js.map": "/static/js/main.192f5497.js.map",
+    "592.754a48a8.chunk.js.map": "/static/js/592.754a48a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5b87ab.css",
+    "static/js/main.192f5497.js"
+  ]
+}
